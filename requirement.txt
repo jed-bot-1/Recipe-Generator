@@ -1,7 +1,7 @@
 fastapi==0.109.1
 uvicorn==0.27.0
 pandas==2.2.1
-scikit-learn==1.4.1
+scikit-learn==1.3.2  # Downgraded to the latest compatible version
 joblib==1.3.2
 pydantic==2.6.1
-numpy==1.26.0  # Modern version with pre-built wheels
+numpy==1.26.0
