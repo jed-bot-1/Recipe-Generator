@@ -1,0 +1,20 @@
+id,recipe_name,ingredients,instructions,matched_ingredients,cuisine
+1,Bicol Express,"pork, coconut milk, chili, garlic, onion",Sauté garlic and onion. Add pork and cook until tender. Pour coconut milk and simmer. Add chili and cook until oil surfaces.,"garlic, onion, chili, pork",Bicolano
+2,Laing,"dried taro leaves, coconut milk, chili, garlic, onion",Simmer coconut milk with chili. Add taro leaves without stirring. Cook until thick and creamy.,"coconut milk, chili, garlic",Bicolano
+3,Pinangat,"taro leaves, coconut milk, shrimp, chili, garlic",Wrap shrimp in taro leaves and tie with coconut leaf strips. Simmer in coconut milk with chili.,"taro leaves, shrimp, chili",Bicolano
+4,Kinunot na Pagi,"stingray, malunggay, coconut milk, vinegar, garlic",Boil stingray and flake meat. Sauté garlic and vinegar. Add malunggay and coconut milk. Simmer until thick.,"malunggay, coconut milk, garlic",Bicolano
+5,Kandingga,"pork lungs, vinegar, garlic, onion, chili",Clean and boil pork lungs. Sauté garlic and onion. Add pork lungs and chili. Simmer with vinegar.,"garlic, onion, chili",Bicolano
+6,Bopis,"pork lungs, heart, vinegar, garlic, chili, onion",Boil and chop pork lungs and heart. Sauté garlic and onion. Add chopped meats and chili. Simmer with vinegar.,"garlic, onion, chili",Bicolano
+7,Laing sa Gata,"dried taro leaves, coconut milk, garlic, onion, chili",Sauté garlic and onion. Add coconut milk and chili. Mix in taro leaves and simmer until cooked.,"coconut milk, chili, garlic",Bicolano
+8,Ginatang Isda,"fish, coconut milk, ginger, garlic, onion, chili","Boil fish with ginger. Sauté garlic, onion, and chili. Add coconut milk and simmer.","coconut milk, garlic, chili",Bicolano
+9,Inulukan,"fish usually eel, coconut milk, chili, garlic",Sauté garlic and chili. Add fish and coconut milk. Simmer until fish is cooked.,"coconut milk, chili, garlic",Bicolano
+10,Laing na Baboy,"pork, dried taro leaves, coconut milk, garlic, chili",Sauté garlic and pork. Add coconut milk and chili. Mix in taro leaves. Cook until tender.,"pork, coconut milk, garlic",Bicolano
+11,Ginataang Langka,"young jackfruit, coconut milk, shrimp, garlic, chili",Boil jackfruit until tender. Sauté garlic and chili. Add shrimp and coconut milk. Simmer.,"coconut milk, shrimp, garlic",Bicolano
+12,Tinumok,"fish, coconut milk, chili, garlic, ginger","Boil fish. Sauté garlic, chili, and ginger. Add coconut milk and simmer until thickened.","coconut milk, chili, garlic",Bicolano
+13,Ginataang Alimasag,"blue crab, coconut milk, chili, garlic, onion",Sauté garlic and onion. Add crabs and chili. Pour coconut milk and simmer until cooked.,"coconut milk, chili, garlic",Bicolano
+14,Pinangat na Isda,"fish, taro leaves, coconut milk, chili",Wrap fish in taro leaves. Simmer in coconut milk and chili. Cook until done.,"fish, taro leaves, coconut milk",Bicolano
+15,Pigar-pigar,"beef, soy sauce, garlic, onion, chili",Marinate beef in soy sauce. Sauté garlic and onion. Cook beef with chili until tender.,"beef, garlic, onion",Bicolano
+16,Tisoy,"pork, pork blood, vinegar, garlic, chili",Boil pork and cut into pieces. Add pork blood and vinegar. Cook with garlic and chili.,"pork, garlic, chili",Bicolano
+17,Buro,"fermented shrimp, rice, salt",Mix shrimp with cooked rice and salt. Ferment for several days to develop flavor.,shrimp,Bicolano
+18,Pinangat na Baboy,"pork, taro leaves, coconut milk, chili",Wrap pork in taro leaves. Simmer in coconut milk and chili. Cook until tender.,"pork, taro leaves, coconut milk",Bicolano
+19,Sinantolan,"grated santol fruit, coconut milk, shrimp, chili",Mix grated santol with coconut milk. Add shrimp and chili. Cook until creamy.,"santol, coconut milk, shrimp",Bicolano
